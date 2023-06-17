@@ -496,3 +496,42 @@ Connection:keep-alive
 2023-06-08 18:45:45.124357 [info]: send data to the client(119.247.126.29)
 2023-06-08 18:45:45.124382 [info]: adjust timer once
 2023-06-08 18:45:47.176327 [info]: timer tick
+2023-06-08 19:05:17.730635 [info]: timer tick
+2023-06-08 19:05:22.730763 [info]: timer tick
+2023-06-08 19:05:27.730965 [info]: timer tick
+2023-06-08 19:05:32.731070 [info]: timer tick
+2023-06-08 19:05:34.681760 [info]: deal with the client(119.247.126.29)
+2023-06-08 19:05:34.681845 [info]: adjust timer once
+2023-06-08 19:05:34.682034 [info]: GET / HTTP/1.1
+2023-06-08 19:05:34.682100 [info]: Host: 34.92.189.46:9006
+2023-06-08 19:05:34.682113 [info]: Connection: keep-alive
+2023-06-08 19:05:34.682122 [info]: DNT: 1
+2023-06-08 19:05:34.682130 [info]: oop!unknow header: DNT: 1
+2023-06-08 19:05:34.682146 [info]: Upgrade-Insecure-Requests: 1
+2023-06-08 19:05:34.682155 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-06-08 19:05:34.682164 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2023-06-08 19:05:34.682172 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2023-06-08 19:05:34.682181 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023-06-08 19:05:34.682190 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023-06-08 19:05:34.682198 [info]: Accept-Encoding: gzip, deflate
+2023-06-08 19:05:34.682206 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-06-08 19:05:34.682213 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+2023-06-08 19:05:34.682221 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+2023-06-08 19:05:34.682230 [info]: 
+2023-06-08 19:05:34.682269 [info]: request:HTTP/1.1 200 OK
+
+2023-06-08 19:05:34.682279 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2023-06-08 19:05:34.682288 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2023-06-08 19:05:34.682296 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2023-06-08 19:05:34.682455 [info]: send data to the client(119.247.126.29)
+2023-06-08 19:05:34.682490 [info]: adjust timer once
+2023-06-08 19:05:37.731205 [info]: timer tick

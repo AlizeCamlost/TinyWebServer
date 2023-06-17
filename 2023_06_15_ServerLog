@@ -1,0 +1,144 @@
+2023-06-15 10:43:35.518899 [info]: timer tick
+2023-06-15 10:43:40.519011 [info]: timer tick
+2023-06-15 10:43:45.519164 [info]: timer tick
+2023-06-15 10:43:50.519345 [info]: timer tick
+2023-06-15 10:43:55.519466 [info]: timer tick
+2023-06-15 10:44:00.519593 [info]: timer tick
+2023-06-15 10:44:05.519696 [info]: timer tick
+2023-06-15 10:44:10.519811 [info]: timer tick
+2023-06-15 10:44:15.519934 [info]: timer tick
+2023-06-15 10:44:20.520082 [info]: timer tick
+2023-06-15 10:44:25.520196 [info]: timer tick
+2023-06-15 10:44:28.891025 [info]: deal with the client(119.247.126.29)
+2023-06-15 10:44:28.891114 [info]: adjust timer once
+2023-06-15 10:44:28.891273 [info]: GET / HTTP/1.1
+2023-06-15 10:44:28.891288 [info]: Host: 34.92.189.46:9006
+2023-06-15 10:44:28.891295 [info]: Connection: keep-alive
+2023-06-15 10:44:28.891301 [info]: Upgrade-Insecure-Requests: 1
+2023-06-15 10:44:28.891307 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-06-15 10:44:28.891314 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2023-06-15 10:44:28.891320 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2023-06-15 10:44:28.891327 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023-06-15 10:44:28.891333 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023-06-15 10:44:28.891339 [info]: Accept-Encoding: gzip, deflate
+2023-06-15 10:44:28.891344 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-06-15 10:44:28.891350 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+2023-06-15 10:44:28.891356 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+2023-06-15 10:44:28.891361 [info]: 
+2023-06-15 10:44:28.891395 [info]: request:HTTP/1.1 200 OK
+
+2023-06-15 10:44:28.891403 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2023-06-15 10:44:28.891409 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2023-06-15 10:44:28.891414 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2023-06-15 10:44:28.892459 [info]: send data to the client(119.247.126.29)
+2023-06-15 10:44:28.892505 [info]: adjust timer once
+2023-06-15 10:44:29.048616 [info]: deal with the client(119.247.126.29)
+2023-06-15 10:44:29.048694 [info]: adjust timer once
+2023-06-15 10:44:29.048844 [info]: GET /favicon.ico HTTP/1.1
+2023-06-15 10:44:29.048861 [info]: Host: 34.92.189.46:9006
+2023-06-15 10:44:29.048869 [info]: Connection: keep-alive
+2023-06-15 10:44:29.048875 [info]: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2023-06-15 10:44:29.048881 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2023-06-15 10:44:29.048888 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2023-06-15 10:44:29.048894 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2023-06-15 10:44:29.048900 [info]: Referer: http://34.92.189.46:9006/
+2023-06-15 10:44:29.048906 [info]: oop!unknow header: Referer: http://34.92.189.46:9006/
+2023-06-15 10:44:29.048912 [info]: Accept-Encoding: gzip, deflate
+2023-06-15 10:44:29.048918 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-06-15 10:44:29.048924 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+2023-06-15 10:44:29.048930 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+2023-06-15 10:44:29.048938 [info]: 
+2023-06-15 10:44:29.048982 [info]: request:HTTP/1.1 200 OK
+
+2023-06-15 10:44:29.048992 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2023-06-15 10:44:29.049001 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2023-06-15 10:44:29.049039 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2023-06-15 10:44:29.050083 [info]: send data to the client(119.247.126.29)
+2023-06-15 10:44:29.050142 [info]: adjust timer once
+2023-06-15 10:44:30.520316 [info]: timer tick
+2023-06-15 10:44:35.520438 [info]: timer tick
+2023-06-15 10:44:39.181282 [info]: close fd 17
+2023-06-15 10:44:39.182276 [info]: close fd 16
+2023-06-15 10:44:40.520588 [info]: timer tick
+2023-06-15 10:44:45.520691 [info]: timer tick
+2023-06-15 10:44:50.520818 [info]: timer tick
+2023-06-15 10:44:55.520945 [info]: timer tick
+2023-06-15 10:45:00.521036 [info]: timer tick
+2023-06-15 10:45:05.521202 [info]: timer tick
+2023-06-15 10:45:10.521324 [info]: timer tick
+2023-06-15 10:45:15.521438 [info]: timer tick
+2023-06-15 10:45:20.521590 [info]: timer tick
+2023-06-15 10:45:25.521703 [info]: timer tick
+2023-06-15 10:45:30.521798 [info]: timer tick
+2023-06-15 10:45:35.521958 [info]: timer tick
+2023-06-15 10:45:40.522072 [info]: timer tick
+2023-06-15 10:45:45.522217 [info]: timer tick
+2023-06-15 10:45:50.522334 [info]: timer tick
+2023-06-15 10:45:55.522473 [info]: timer tick
+2023-06-15 10:46:00.522566 [info]: timer tick
+2023-06-15 10:46:05.522748 [info]: timer tick
+2023-06-15 10:46:10.522897 [info]: timer tick
+2023-06-15 10:46:15.523041 [info]: timer tick
+2023-06-15 10:46:20.523136 [info]: timer tick
+2023-06-15 10:46:25.523278 [info]: timer tick
+2023-06-15 10:46:30.523431 [info]: timer tick
+2023-06-15 10:46:35.523567 [info]: timer tick
+2023-06-15 10:46:40.523662 [info]: timer tick
+2023-06-15 10:46:45.523785 [info]: timer tick
+2023-06-15 10:46:50.523882 [info]: timer tick
+2023-06-15 10:46:55.523998 [info]: timer tick
+2023-06-15 10:47:00.524181 [info]: timer tick
+2023-06-15 10:47:05.524395 [info]: timer tick
+2023-06-15 10:47:10.524547 [info]: timer tick
+2023-06-15 10:47:15.524655 [info]: timer tick
+2023-06-15 10:47:20.524758 [info]: timer tick
+2023-06-15 10:47:25.524864 [info]: timer tick
+2023-06-15 10:47:30.525013 [info]: timer tick
+2023-06-15 10:47:35.525135 [info]: timer tick
+2023-06-15 10:47:40.525291 [info]: timer tick
+2023-06-15 10:47:45.525408 [info]: timer tick
+2023-06-15 10:47:50.525550 [info]: timer tick
+2023-06-15 10:47:55.525913 [info]: timer tick
+2023-06-15 10:48:00.526027 [info]: timer tick
+2023-06-15 10:48:05.526194 [info]: timer tick
+2023-06-15 10:48:10.526303 [info]: timer tick
+2023-06-15 10:48:15.526450 [info]: timer tick
+2023-06-15 10:48:20.526553 [info]: timer tick
+2023-06-15 10:48:25.526673 [info]: timer tick
+2023-06-15 10:48:30.526857 [info]: timer tick
+2023-06-15 10:48:35.527005 [info]: timer tick
+2023-06-15 10:48:40.527141 [info]: timer tick
+2023-06-15 10:48:45.527249 [info]: timer tick
+2023-06-15 10:48:50.527396 [info]: timer tick
+2023-06-15 10:48:55.527496 [info]: timer tick
+2023-06-15 10:49:00.527600 [info]: timer tick
+2023-06-15 10:49:05.527725 [info]: timer tick
+2023-06-15 10:49:10.527838 [info]: timer tick
+2023-06-15 10:49:15.527975 [info]: timer tick
+2023-06-15 10:49:20.528093 [info]: timer tick
+2023-06-15 10:49:25.528232 [info]: timer tick
+2023-06-15 10:49:30.528454 [info]: timer tick
+2023-06-15 10:49:35.528597 [info]: timer tick
+2023-06-15 10:49:40.528698 [info]: timer tick
+2023-06-15 10:49:45.528813 [info]: timer tick
+2023-06-15 10:49:50.528926 [info]: timer tick
+2023-06-15 10:49:55.529028 [info]: timer tick
+2023-06-15 10:50:00.529140 [info]: timer tick
